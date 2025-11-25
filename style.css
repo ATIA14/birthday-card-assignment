@@ -1,0 +1,34 @@
+body{
+    background-image: url(./bg\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 930px;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+.wish{
+    background-color: rgb(243, 159, 50);
+    text-align: center;
+    padding: 70px;
+    border-radius: 5%;
+    margin-left: 15px;
+}
+img{
+    border-radius: 5%;
+    width: 300px;
+    margin-left: 100px;
+}
+h1{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 40px;
+    
+}
+p{
+    line-height: 23px;
+}
+b{
+    font-size: 20px;
+}
